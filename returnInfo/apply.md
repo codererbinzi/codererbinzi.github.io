@@ -1,8 +1,18 @@
+申请地址：[学生返校申请](http://eip.cswu.cn/EIP/tabPage.jsp?url=/nonlogin/elobby/service/start.htm?sid=fxwpspwfpksdmsxmbedfdbjimzwx5wzn&title=xsfx)
+
+<br>
+
 ### 一、准备材料
 
 <br>
 
 - **答题100分**：若未达到100分就重新答题，直到满分为止（如果答题后发现`名字不是自己的`请及时联系班长）
+
+  > 扫码答题（[二维码来自学校一站式门户](http://dc.cswu.cn/))）
+  >
+  > ![](http://eip.cswu.cn/EIP/nonlogin/fileupload/downloadfile.htm?id=00a7dfd7afc54fdab27cf30c80bb5c5f.png&path=public.files.editor.upload&name=53.png)
+  >
+  > 答题答案下载地址：https://send.firefox.com/download/60d85ae520bbb09b/#2nW42vpPmwidbyYLNZwtbA（密码：123）
 
 
 

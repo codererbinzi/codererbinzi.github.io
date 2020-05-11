@@ -12,4 +12,4 @@
 >
 > 如果有意愿购票的同学，`今天`可以购买，购买车票以后登录`学生返校交通信息填报系统`完善返校交通信息，辅导员审核，然后生成“电子返校健康码”。
 >
-> 注：此处的`交通信息填报系统`在返校申请`通过后`才能填写，相关操作后续会补充
+> 注：此处的[`交通信息填报系统`](http://eip.cswu.cn/EIP/tabPage.jsp?url=/nonlogin/elobby/service/start.htm?sid=fxwpspwfpksdmsxmbedfdbjimzwx5wzn&title=xsfx)在返校申请`通过后`才能填写，相关操作后续会补充
